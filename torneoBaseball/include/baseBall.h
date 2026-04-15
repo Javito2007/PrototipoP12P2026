@@ -1,6 +1,7 @@
 #ifndef BASEBALL_H
 #define BASEBALL_H
 #include <string>
+
 // Constantes
 #define NUMERO_ALUMNOS 5
 #define NUMERO_MATERIAS 5
