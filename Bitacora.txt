@@ -1,3 +1,15 @@
+commit 6f7c6eccaae32188df4c0dd92672e3882dcb5820
+Author: JhonnyFlores <Jhonny.fl2006@gmail.com>
+Date:   Wed Apr 15 10:16:00 2026 -0600
+
+    Comentarios en variables
+
+commit 4cecde8e6511a1a40398af0c78da8b9a26e7612b
+Author: JhonnyFlores <Jhonny.fl2006@gmail.com>
+Date:   Wed Apr 15 10:13:37 2026 -0600
+
+    ArchivoBitacoraCreado
+
 commit c6dd791de736c6d6fb90236fa9f13314db6c7040
 Author: JhonnyFlores <Jhonny.fl2006@gmail.com>
 Date:   Wed Apr 15 10:12:24 2026 -0600
